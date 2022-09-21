@@ -1,0 +1,218 @@
+2022-09-05 23:36:20,219  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-05 23:39:09,886  INFO [main] BasePage:65 - launching an application
+ 2022-09-05 23:39:56,179  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 11:41:16,294  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 11:41:20,784  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 11:41:34,052  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 11:42:18,700  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 11:42:21,110  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 11:42:53,720  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 11:44:29,563  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 11:44:32,076  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 11:44:55,676  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 11:46:39,542  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 11:46:41,967  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 11:46:57,141  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 14:54:38,739  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 14:54:41,830  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 14:54:57,704  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 14:54:59,990  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 14:55:11,809  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:05:40,732  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:05:43,380  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:06:08,230  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:07:44,202  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:07:46,490  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:08:03,655  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:17:23,821  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:17:26,411  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:18:11,866  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:21:08,008  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:21:10,433  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:21:11,028  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:21:28,444  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:21:30,653  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:21:31,121  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:22:44,034  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:22:46,270  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:22:46,686  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:23:50,823  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:23:53,136  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:23:53,561  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 15:24:36,098  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 15:24:38,225  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 15:25:00,555  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 19:35:19,654  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 19:35:23,885  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 19:35:44,207  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 19:39:14,279  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 19:39:16,331  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 19:39:30,526  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 19:49:12,534  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 19:49:14,632  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 19:49:32,931  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 19:51:47,124  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 19:51:49,056  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 19:53:21,206  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 19:54:57,923  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 19:54:59,809  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 19:55:30,881  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 20:04:23,287  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 20:04:26,163  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 20:04:53,018  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 20:05:43,847  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 20:05:45,859  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 20:06:09,063  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 20:08:58,789  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 20:09:00,820  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 20:09:14,834  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 20:24:31,405  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 20:24:34,542  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 20:24:45,114  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-06 20:27:57,969  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-06 20:28:00,605  INFO [main] BasePage:65 - launching an application
+ 2022-09-06 20:28:26,999  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 12:14:20,586  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 12:14:24,750  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 12:14:36,326  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 12:16:12,952  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 12:16:15,174  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 12:16:31,138  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 12:23:21,219  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 12:23:23,652  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 12:23:35,565  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 12:48:11,252  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 12:48:13,553  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 12:48:32,244  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 13:28:00,032  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 13:28:03,089  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 20:43:45,203  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 20:43:49,679  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 20:44:45,960  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 20:47:07,889  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 20:47:10,936  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 20:48:12,344  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 20:51:51,366  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 20:51:53,705  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 20:53:31,771  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 20:57:59,963  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 20:58:02,213  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 20:59:21,540  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 21:00:48,155  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 21:00:50,332  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 21:01:14,798  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-16 21:01:56,264  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-16 21:01:58,482  INFO [main] BasePage:65 - launching an application
+ 2022-09-16 21:04:02,162  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-17 12:08:47,644  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-17 12:08:50,938  INFO [main] BasePage:65 - launching an application
+ 2022-09-17 12:09:13,351  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-17 12:11:22,476  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-17 12:11:24,828  INFO [main] BasePage:65 - launching an application
+ 2022-09-17 12:11:46,359  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-17 12:19:53,191  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-17 12:19:56,482  INFO [main] BasePage:65 - launching an application
+ 2022-09-17 12:20:31,925  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-17 12:23:01,812  INFO [main] BasePage:65 - initialising a browser with namechrome
+ 2022-09-17 12:23:04,160  INFO [main] BasePage:65 - launching an application
+ 2022-09-17 12:23:37,153  INFO [main] BasePage:65 - chorme browser initialised
+ 2022-09-20 06:41:32,942  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:41:37,246  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:41:46,346  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:42:16,733  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:42:18,179  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:42:25,646  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:42:55,874  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:42:57,232  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:43:02,311  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:43:32,512  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:43:33,973  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:43:44,439  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:51:25,905  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:51:28,345  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:51:40,143  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:52:10,421  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:52:12,000  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:52:24,638  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:52:54,861  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:52:56,309  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:53:04,515  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:53:34,747  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:53:36,297  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:53:43,233  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:55:58,034  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:56:00,585  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:56:08,425  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:56:18,410  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:56:19,733  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:56:26,494  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:56:36,350  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:56:37,857  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:57:02,607  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 06:57:09,131  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 06:57:10,459  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 06:57:16,741  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:04:43,792  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:04:46,197  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:04:52,585  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:05:03,857  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:05:05,190  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:05:09,920  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:05:22,846  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:05:24,198  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:05:30,541  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:05:41,817  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:05:43,152  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:05:51,025  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:12:57,516  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:13:02,651  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:13:08,753  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:13:19,477  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:13:20,842  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:13:30,827  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:13:43,337  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:13:45,154  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:16:51,573  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:17:13,257  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:17:14,561  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:17:31,582  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:22:38,237  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:22:40,546  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:22:48,992  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:23:00,500  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:23:01,715  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:23:15,202  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:23:34,976  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:23:36,542  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:23:56,876  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:24:10,594  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:24:11,911  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:24:21,462  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:29:46,001  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:29:48,455  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:29:49,094  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:29:50,381  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:29:50,905  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:29:52,117  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:30:06,643  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:30:08,969  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:30:29,141  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:30:55,289  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:30:56,547  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:31:10,875  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:35:20,504  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:35:23,025  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:35:48,969  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:36:15,044  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:36:16,344  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:36:47,739  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:37:19,663  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:37:20,984  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:37:49,073  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:39:30,093  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:39:32,564  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:39:47,530  INFO [main] BaseClass:65 - chorme browser initialised
+ 2022-09-20 07:40:10,010  INFO [main] BaseClass:65 - initialising a browser with namechrome
+ 2022-09-20 07:40:11,321  INFO [main] BaseClass:65 - launching an application
+ 2022-09-20 07:40:25,166  INFO [main] BaseClass:65 - chorme browser initialised
+ 
