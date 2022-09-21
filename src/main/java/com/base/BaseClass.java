@@ -51,7 +51,7 @@ public class BaseClass {
 			else {
 				System.setProperty("webdriver.gecko.driver", "geckodriver.exe");
 				driver = new FirefoxDriver();
-				log.info("firefox browser initialised");
+			//	log.info("firefox browser initialised");
 				launchApplication();
 				// return driver;
 			}
