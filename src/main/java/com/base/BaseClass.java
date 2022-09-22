@@ -32,7 +32,7 @@ public class BaseClass {
 
 	}
     public static void launchApplication() {
-		 log.info("launching an application");
+		log.info("launching an application");
 		driver.get(readProperty("url"));
 		driver.manage().window().maximize();
 		driver.manage().timeouts().pageLoadTimeout(50, TimeUnit.SECONDS);
